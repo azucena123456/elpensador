@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196149153289",
+    "project_id": "elpensador-zif0ne",
+    "storage_bucket": "elpensador-zif0ne.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196149153289:android:ba01efd0e87f7b5b5832d8",
+        "android_client_info": {
+          "package_name": "com.mycompany.elpensador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvC3NNcLzFYjcCtjOJ8kRHBaVYKXHZ-Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
